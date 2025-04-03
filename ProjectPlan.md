@@ -21,7 +21,7 @@ This project aims to analyze the relationship between student performance and me
 ### 1. Student Depression Dataset
 - **Source**: Kaggle
 - **Format**: CSV
-- **Original Source**: [Include Original Data Source URL]
+- **Original Source**: https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset 
 - **Description**: Contains demographic, academic, and lifestyle factors related to student mental health.
 - **Key Features**:
   - Demographics: Age, gender, city
@@ -33,7 +33,7 @@ This project aims to analyze the relationship between student performance and me
 ### 2. Student Performance & Behavior Dataset
 - **Source**: Kaggle
 - **Format**: JSON
-- **Original Source**: [Include Original Data Source URL]
+- **Original Source**: https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset 
 - **Description**: Contains detailed academic performance records, behavior metrics, and stress indicators for students.
 - **Key Features**:
   - Academic Performance: Midterm score, final score, assignments average, participation score, projects score, total grade
@@ -54,7 +54,7 @@ This project aims to analyze the relationship between student performance and me
 | April 15       | Submit interim report                                                      | Shivali Patel |
 | April 16-25    | Final model tuning & visualization                                         | Shivali Patel |
 | April 26-30    | Documentation & project finalization                                       | Shivali Patel |
-| May 1          | Submit final project  
+| May 1          | Submit final project                                                       | Shivali Patel |
 
 ## Implementation Plan 
 ### Data Acquisition & Integration

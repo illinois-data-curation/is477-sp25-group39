@@ -53,7 +53,8 @@ This project aims to analyze the relationship between student performance and me
 | April 11-14    | Feature engineering & model development, Model evaluation & improvement    | Shivali Patel |
 | April 15       | Submit interim report                                                      | Shivali Patel |
 | April 16-25    | Final model tuning & visualization                                         | Shivali Patel |
-| April 26-30    | Documentation & project
+| April 26-30    | Documentation & project finalization                                       | Shivali Patel |
+| May 1          | Submit final project  
 
 ## Implementation Plan 
 ### Data Acquisition & Integration

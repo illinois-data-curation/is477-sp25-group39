@@ -72,6 +72,6 @@ This project investigates the relationship between student academic performance 
 ---
 **Status Report Prepared by:** Shivali Patel
 
-**GitHub Repository:** [Insert Link Here Once Tagged Release is Created]
+**GitHub Repository:** https://github.com/illinois-data-curation/is477-sp25-group39
 
 **Tag to Create:** `status-report`

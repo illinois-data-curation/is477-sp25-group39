@@ -1,0 +1,7 @@
+*.csv
+*.ipynb_checkpoints/
+/output/
+/data/ 
+__pycache__/ 
+*.json
+

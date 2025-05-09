@@ -3,7 +3,7 @@
 ## Link to Archival Record
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15369053.svg)](https://doi.org/10.5281/zenodo.15369053)
 
-## 👥 Contributors
+## Contributors
 - **Shivali Patel**  
   *Undergraduate Student, University of Illinois at Urbana-Champaign*
 

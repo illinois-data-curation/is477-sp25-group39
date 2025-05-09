@@ -1,7 +1,7 @@
 # Mental Health and Academic Performance Analysis
 
 ## Link to Archival Record
-[Zenodo DOI Placeholder – To be updated after GitHub release and Zenodo upload]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15369053.svg)](https://doi.org/10.5281/zenodo.15369053)
 
 ## 👥 Contributors
 - **Shivali Patel**  

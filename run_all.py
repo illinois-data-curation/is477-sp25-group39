@@ -1,4 +1,3 @@
-#!/Library/Frameworks/Python.framework/Versions/3.12/bin/python3
 import os
 import nbformat
 from nbconvert.preprocessors import ExecutePreprocessor
@@ -8,7 +7,6 @@ notebooks = [
     "data_acquisition.ipynb",
     "data_cleaning_preprocessing.ipynb",
     "eda_visualizations.ipynb",
-    "model_dev_baseline.ipynb", 
     "final_model_tuning.ipynb"
 ]
 

@@ -132,12 +132,12 @@ To reproduce this project:
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   /usr/local/bin/python3 -m pip install -r requirements.txt
    ```
 
 3. Execute the full pipeline:
    ```bash
-   python run_all.py
+   /usr/local/bin/python3 run_all.py
    ```
 
 ### Data Access & Folder Structure
